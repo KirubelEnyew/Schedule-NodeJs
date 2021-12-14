@@ -1,0 +1,24 @@
+{
+  "name": "schedulenode",
+  "version": "1.0.0",
+  "description": "Scheduling App Back end Code with RESTful api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KirubelEnyew/ScheduleBackEnd.git"
+  },
+  "author": "Kirubel Enyew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KirubelEnyew/ScheduleBackEnd/issues"
+  },
+  "homepage": "https://github.com/KirubelEnyew/ScheduleBackEnd#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.3",
+    "nodemon": "^2.0.12"
+  }
+}
